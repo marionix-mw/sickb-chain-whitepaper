@@ -37,7 +37,7 @@ Resources and legal disclaimers.
 
 ## Download
 
-📄 **[SickB_Chain_Whitepaper_v2.0.pdf](./SickB_Chain_Whitepaper_v2.0.pdf)**
+📄 **[SickB_Chain_Whitepaper_v2.0.pdf](./SickB_Chain_The_Dawn_of_Post-Ethereum_Blockchain_Evolution_v2.0.pdf.pdf)**
 
 ## Links
 
