@@ -48,7 +48,7 @@ Resources and legal disclaimers.
 
 ## Authorship
 
-Written by **Mario Wagner (Marionix)**, Chief Operating Officer of SickB Chain.
+Written by **Mario Wagner (Marionix)**, former Chief Operating Officer of SickB Chain (until March 27, 2026).
 Based on the technical vision and architecture of **Josh Spoehr (SickB)**, Chief Executive Officer and Founder.
 
 One built the chain. The other built the bridge to understanding it.
